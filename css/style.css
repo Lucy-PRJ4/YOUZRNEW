@@ -242,4 +242,7 @@ fieldset {
 .youzrinsta {
     color: #000000;
 }
-
+.experience {
+	text-align: center;
+	margin: -1px;
+}
