@@ -1,2 +1,2 @@
-# YOUZRNEW
-The New repositOry for YOUZR!
+# YOUZR
+The YOUZR repository.
