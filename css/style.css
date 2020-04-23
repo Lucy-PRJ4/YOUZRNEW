@@ -245,4 +245,6 @@ fieldset {
 .experience {
 	text-align: center;
 	margin: -1px;
+}.choicesbig {
+    font-size: 80px;
 }
